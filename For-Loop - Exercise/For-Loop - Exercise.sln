@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers Ending in 7", "Numbers Ending in 7\Numbers Ending in 7.csproj", "{11481166-D3AB-4D52-ADAD-1C38BA11D455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Half Sum Element", "Half Sum Element\Half Sum Element.csproj", "{008FF945-5F9C-41EA-BA1E-5706FC6B61F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd or Even Position", "Odd or Even Position\Odd or Even Position.csproj", "{7B96A74D-0DCD-474F-AC5A-819F1A0C5639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Pairs", "Equal Pairs\Equal Pairs.csproj", "{559DE09E-F3AF-4F32-9EF8-7B4F5A6AF4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{93264FEE-C0FD-4ED8-ABFD-ED5F44601B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide without remainder", "Divide without remainder\Divide without remainder.csproj", "{FFBACFFE-C2F9-494C-A339-241128EE0B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{88F5859A-1171-4971-9C8A-B2C09F95814A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11481166-D3AB-4D52-ADAD-1C38BA11D455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11481166-D3AB-4D52-ADAD-1C38BA11D455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11481166-D3AB-4D52-ADAD-1C38BA11D455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11481166-D3AB-4D52-ADAD-1C38BA11D455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008FF945-5F9C-41EA-BA1E-5706FC6B61F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008FF945-5F9C-41EA-BA1E-5706FC6B61F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008FF945-5F9C-41EA-BA1E-5706FC6B61F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008FF945-5F9C-41EA-BA1E-5706FC6B61F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B96A74D-0DCD-474F-AC5A-819F1A0C5639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B96A74D-0DCD-474F-AC5A-819F1A0C5639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B96A74D-0DCD-474F-AC5A-819F1A0C5639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B96A74D-0DCD-474F-AC5A-819F1A0C5639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559DE09E-F3AF-4F32-9EF8-7B4F5A6AF4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559DE09E-F3AF-4F32-9EF8-7B4F5A6AF4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559DE09E-F3AF-4F32-9EF8-7B4F5A6AF4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559DE09E-F3AF-4F32-9EF8-7B4F5A6AF4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93264FEE-C0FD-4ED8-ABFD-ED5F44601B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93264FEE-C0FD-4ED8-ABFD-ED5F44601B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93264FEE-C0FD-4ED8-ABFD-ED5F44601B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93264FEE-C0FD-4ED8-ABFD-ED5F44601B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBACFFE-C2F9-494C-A339-241128EE0B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBACFFE-C2F9-494C-A339-241128EE0B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBACFFE-C2F9-494C-A339-241128EE0B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBACFFE-C2F9-494C-A339-241128EE0B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F5859A-1171-4971-9C8A-B2C09F95814A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F5859A-1171-4971-9C8A-B2C09F95814A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F5859A-1171-4971-9C8A-B2C09F95814A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F5859A-1171-4971-9C8A-B2C09F95814A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA441BCA-F8F6-4D9E-8926-D25EB2FFD037}
+	EndGlobalSection
+EndGlobal
